@@ -40,22 +40,6 @@ I'm a full-stack developer and tech innovator crafting digital solutions that br
 
 #
 
-### 🌱 Current Learning Focus
-
-- Deepening my understanding of AI and machine learning algorithms
-- Exploring serverless architectures and cloud computing solutions
-- Enhancing my skills in data structures and algorithms for optimized problem-solving
-
-#
-
-### 📫 How to reach me
-
-- 📧 Email: petru.tirla@gmail.com
-- 🌐 Website: petrutirla.com
-- 💼 LinkedIn: [Petru Tirla](https://www.linkedin.com/in/petru-tirla)
-
-#
-
 ### 📝 Latest LinkedIn Posts
 <table>
   <tr>
