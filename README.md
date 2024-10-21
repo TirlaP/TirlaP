@@ -56,10 +56,10 @@ I'm a full-stack developer and tech innovator crafting digital solutions that br
 
 #
 
-📝 Latest LinkedIn Posts
+### 📝 Latest LinkedIn Posts
 <table>
   <tr>
-    <td width="300px">
+    <td width="250px">
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7254010193607348225/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         <br />
@@ -68,7 +68,7 @@ I'm a full-stack developer and tech innovator crafting digital solutions that br
         Tips for maintaining work-life balance in tech
       </a>
     </td>
-    <td width="300px">
+    <td width="250px">
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7253723755632357376/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         <br />
@@ -77,9 +77,7 @@ I'm a full-stack developer and tech innovator crafting digital solutions that br
         Why technical skills alone aren't enough
       </a>
     </td>
-  </tr>
-  <tr>
-    <td width="300px">
+    <td width="250px">
       <a href="https://www.linkedin.com/posts/petru-tirla_i-was-drowning-in-notifications-constant-activity-7230521262068908032-d6k6">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         <br />
@@ -88,7 +86,9 @@ I'm a full-stack developer and tech innovator crafting digital solutions that br
         Strategies for dealing with digital overload
       </a>
     </td>
-    <td width="300px">
+  </tr>
+  <tr>
+    <td width="250px">
       <a href="https://www.linkedin.com/posts/petru-tirla_youre-struggling-with-imposter-syndrome-activity-7230155090177736704-oxKl">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         <br />
@@ -97,9 +97,7 @@ I'm a full-stack developer and tech innovator crafting digital solutions that br
         Techniques to build confidence in your skills
       </a>
     </td>
-  </tr>
-  <tr>
-    <td width="300px">
+    <td width="250px">
       <a href="https://www.linkedin.com/posts/petru-tirla_i-was-stuck-in-analysis-paralysis-too-many-activity-7229811599769825280-VG8x">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         <br />
@@ -108,7 +106,7 @@ I'm a full-stack developer and tech innovator crafting digital solutions that br
         How to make decisions and move forward
       </a>
     </td>
-    <td width="300px">
+    <td width="250px">
       <a href="https://www.linkedin.com/posts/petru-tirla_your-website-is-beautiful-but-no-ones-finding-activity-7229434081724268544-NTJ4">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         <br />
@@ -120,15 +118,6 @@ I'm a full-stack developer and tech innovator crafting digital solutions that br
   </tr>
 </table>
 <img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-### 📝 Latest LinkedIn Posts
-
-1. [Balancing Work and Personal Life](https://www.linkedin.com/feed/update/urn:li:activity:7254010193607348225/)
-2. [The Importance of Soft Skills in Tech](https://www.linkedin.com/feed/update/urn:li:activity:7253723755632357376/)
-3. [Managing Notifications and Focus](https://www.linkedin.com/posts/petru-tirla_i-was-drowning-in-notifications-constant-activity-7230521262068908032-d6k6?utm_source=share&utm_medium=member_desktop)
-4. [Overcoming Imposter Syndrome](https://www.linkedin.com/posts/petru-tirla_youre-struggling-with-imposter-syndrome-activity-7230155090177736704-oxKl?utm_source=share&utm_medium=member_desktop)
-5. [Breaking Through Analysis Paralysis](https://www.linkedin.com/posts/petru-tirla_i-was-stuck-in-analysis-paralysis-too-many-activity-7229811599769825280-VG8x?utm_source=share&utm_medium=member_desktop)
-6. [SEO Tips for Your Website](https://www.linkedin.com/posts/petru-tirla_your-website-is-beautiful-but-no-ones-finding-activity-7229434081724268544-NTJ4?utm_source=share&utm_medium=member_desktop)
 
 #
 
