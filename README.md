@@ -1,11 +1,9 @@
-# 🚀 Petru Tirla
+# 🏄‍♂️ Petru Tirla
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm a full-stack developer and tech innovator crafting digital solutions that bridge the gap between cutting-edge technology and real-world business needs. My journey has taken me from coding in the trenches to building AI-powered SaaS products that are reshaping how businesses interact with their customers. Each project I undertake is a step towards pushing the boundaries of what's possible in the digital realm.
+I'm a full-stack developer and tech innovator crafting digital solutions that bridge cutting-edge technology and real-world business needs. From AI-powered SaaS products to custom web applications, I'm passionate about pushing the boundaries of what's possible in the digital realm, always learning and sharing insights along the way.
 
-From conceptualization to deployment, I'm involved in every stage of the development process. Whether it's creating a seamless user interface with React, building robust backend systems with Node.js, or integrating AI capabilities using OpenAI's GPT, I'm passionate about delivering solutions that not only meet but exceed expectations.
-
-My latest venture, AiFrontDesk, is revolutionizing customer service with AI-powered call center technology. But my work doesn't stop there – I'm constantly exploring new technologies and sharing my insights with the tech community, believing that knowledge shared is knowledge multiplied.
+💼 Building AiFrontDesk and solving real-world problems with code. Check out my projects below!
 
 <p align="left">
    <a href="https://github.com/TirlaP?tab=followers">
@@ -33,12 +31,6 @@ My latest venture, AiFrontDesk, is revolutionizing customer service with AI-powe
 
 #
 
-### 📊 Stats
-
-![Petru's GitHub stats](https://github-readme-stats.vercel.app/api?username=TirlaP&show_icons=true&theme=gruvbox)
-
-#
-
 ### 💼 Featured Projects
 
 1. **AiFrontDesk** - An AI-powered call center solution integrating OpenAI GPT, React, Next.js, Node.js, Twilio, and Stripe.
@@ -60,7 +52,24 @@ My latest venture, AiFrontDesk, is revolutionizing customer service with AI-powe
 
 - 📧 Email: petru.tirla@gmail.com
 - 🌐 Website: petrutirla.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 💼 LinkedIn: [Petru Tirla](https://www.linkedin.com/in/petru-tirla)
+
+#
+
+### 📝 Latest LinkedIn Posts
+
+1. [Balancing Work and Personal Life](https://www.linkedin.com/feed/update/urn:li:activity:7254010193607348225/)
+2. [The Importance of Soft Skills in Tech](https://www.linkedin.com/feed/update/urn:li:activity:7253723755632357376/)
+3. [Managing Notifications and Focus](https://www.linkedin.com/posts/petru-tirla_i-was-drowning-in-notifications-constant-activity-7230521262068908032-d6k6?utm_source=share&utm_medium=member_desktop)
+4. [Overcoming Imposter Syndrome](https://www.linkedin.com/posts/petru-tirla_youre-struggling-with-imposter-syndrome-activity-7230155090177736704-oxKl?utm_source=share&utm_medium=member_desktop)
+5. [Breaking Through Analysis Paralysis](https://www.linkedin.com/posts/petru-tirla_i-was-stuck-in-analysis-paralysis-too-many-activity-7229811599769825280-VG8x?utm_source=share&utm_medium=member_desktop)
+6. [SEO Tips for Your Website](https://www.linkedin.com/posts/petru-tirla_your-website-is-beautiful-but-no-ones-finding-activity-7229434081724268544-NTJ4?utm_source=share&utm_medium=member_desktop)
+
+#
+
+### 📊 Stats
+
+![Petru's GitHub stats](https://github-readme-stats.vercel.app/api?username=TirlaP&show_icons=true&theme=gruvbox)
 
 ---
 
