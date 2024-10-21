@@ -41,10 +41,6 @@ I'm a full-stack developer and tech innovator crafting digital solutions that br
 <br />
 <br />
 
-**Additional Skills:** Websockets | CI/CD | Unit Testing | OOP | Stripe | MobX
-
-**Proficiency:** Frontend | Backend | Full-Stack | English (Professional working proficiency)
-
 #
 
 ### 💼 Featured Projects
