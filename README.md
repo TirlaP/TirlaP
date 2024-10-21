@@ -56,6 +56,71 @@ I'm a full-stack developer and tech innovator crafting digital solutions that br
 
 #
 
+📝 Latest LinkedIn Posts
+<table>
+  <tr>
+    <td width="300px">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7254010193607348225/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <br />
+        <b>🔋 Balancing Work and Personal Life</b>
+        <br />
+        Tips for maintaining work-life balance in tech
+      </a>
+    </td>
+    <td width="300px">
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7253723755632357376/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <br />
+        <b>🤝 The Importance of Soft Skills in Tech</b>
+        <br />
+        Why technical skills alone aren't enough
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300px">
+      <a href="https://www.linkedin.com/posts/petru-tirla_i-was-drowning-in-notifications-constant-activity-7230521262068908032-d6k6">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <br />
+        <b>🔔 Managing Notifications and Focus</b>
+        <br />
+        Strategies for dealing with digital overload
+      </a>
+    </td>
+    <td width="300px">
+      <a href="https://www.linkedin.com/posts/petru-tirla_youre-struggling-with-imposter-syndrome-activity-7230155090177736704-oxKl">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <br />
+        <b>💪 Overcoming Imposter Syndrome</b>
+        <br />
+        Techniques to build confidence in your skills
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300px">
+      <a href="https://www.linkedin.com/posts/petru-tirla_i-was-stuck-in-analysis-paralysis-too-many-activity-7229811599769825280-VG8x">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <br />
+        <b>🧠 Breaking Through Analysis Paralysis</b>
+        <br />
+        How to make decisions and move forward
+      </a>
+    </td>
+    <td width="300px">
+      <a href="https://www.linkedin.com/posts/petru-tirla_your-website-is-beautiful-but-no-ones-finding-activity-7229434081724268544-NTJ4">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <br />
+        <b>🔍 SEO Tips for Your Website</b>
+        <br />
+        Improving your site's visibility online
+      </a>
+    </td>
+  </tr>
+</table>
+<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 ### 📝 Latest LinkedIn Posts
 
 1. [Balancing Work and Personal Life](https://www.linkedin.com/feed/update/urn:li:activity:7254010193607348225/)
